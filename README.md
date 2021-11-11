@@ -5,6 +5,13 @@ The purpose of this study is to developing Temporal point process
 
 
 The project can be accessed over at:
+- 🏁 new
+- NEURAL SPECTRAL MARKED POINT PROCESSES, ICLR 2022 submission, [Link](https://openreview.net/pdf?id=0rcbOaoBXbg)
+- EXPLAINING POINT PROCESSES BY LEARNING INTERPRETABLE TEMPORAL LOGIC RULES, ICLR 2022 submission, [Link](https://openreview.net/pdf?id=P07dq7iSAGr)
+- SCALABLE SAMPLING FOR NONSYMMETRIC DETERMINANTAL POINT PROCESSES, ICLR 2022 submission, [Link](https://openreview.net/pdf?id=BB4e8Atc1eR)
+- DRIPP: DRIVEN POINT PROCESSES TO MODEL STIMULI INDUCED PATTERNS IN M/EEG SIGNALS, ICLR 2022 submission, [Link](https://openreview.net/pdf?id=d_2lcDh0Y9c)
+- ONLINE MAP INFERENCE AND LEARNING FOR NONSYMMETRIC DETERMINANTAL POINT PROCESSES, ICLR 2022 submission, [Link](https://openreview.net/pdf?id=Jvoe8JCGvy)
+
 -  Intensity-Free Learning of Temporal Point Processes, ICLR2020, [Link](https://arxiv.org/pdf/1909.12127.pdf), [Code](https://github.com/shchur/ifl-tpp)
 -  Recurrent Marked Temporal Point Processes: Embedding Event History to Vector, KDD 2016 [Link](https://www.kdd.org/kdd2016/papers/files/rpp1081-duA.pdf), [Code](https://github.com/shchur/ifl-tpp)
 -  The Neural Hawkes Process: A Neurally Self-Modulating Multivariate Point Process. NIPS 2017 [Link](https://arxiv.org/pdf/1612.09328.pdf), [Code](https://github.com/Hongrui24/NeuralHawkesPytorch) 
