@@ -1,7 +1,7 @@
-# Study for developing deep learning models for Temporal point process
+# Study for developing deep learning models for point process
 ## UNIST Financial Engineering Lab  
 
-The purpose of this study is to developing Temporal point process
+The purpose of this study is to developing point process
 
 
 The project can be accessed over at:
