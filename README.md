@@ -6,13 +6,13 @@ The purpose of this study is to developing point process
 
 The project can be accessed over at:
   - 🏁 NeurIPS
-  - Learning to Select Exogenous Events for Marked Temporal Point Process, 2021, [Link](https://papers.nips.cc/paper/2021/hash/032abcd424b4312e7087f434ef1c0094-Abstract.html)
-  - Continuous-time edge modelling using non-parametric point processes, 2021, [Link](https://papers.nips.cc/paper/2021/hash/1301962d8b7bd03fffaa27119aa7fc2b-Abstract.html)
-  - Self-Adaptable Point Processes with Nonparametric Time Decays, 2021, [Link](https://papers.nips.cc/paper/2021/hash/243facb29564e7b448834a7c9d901201-Abstract.html)
-  - Detecting Anomalous Event Sequences with Temporal Point Processes, 2021, [Link](https://papers.nips.cc/paper/2021/hash/6faa8040da20ef399b63a72d0e4ab575-Abstract.html)
-  - Fast and Flexible Temporal Point Processes with Triangular Maps, 2021, [Link](https://papers.nips.cc/paper/2020/hash/00ac8ed3b4327bdd4ebbebcb2ba10a00-Abstract.html)
-  - Point process latent variable models of larval zebrafish behavior, 2021, [Link](https://papers.nips.cc/paper/2018/hash/e02af5824e1eb6ad58d6bc03ac9e827f-Abstract.html)
- 
+    - Learning to Select Exogenous Events for Marked Temporal Point Process, 2021, [Link](https://papers.nips.cc/paper/2021/hash/032abcd424b4312e7087f434ef1c0094-Abstract.html)
+    - Continuous-time edge modelling using non-parametric point processes, 2021, [Link](https://papers.nips.cc/paper/2021/hash/1301962d8b7bd03fffaa27119aa7fc2b-Abstract.html)
+    - Self-Adaptable Point Processes with Nonparametric Time Decays, 2021, [Link](https://papers.nips.cc/paper/2021/hash/243facb29564e7b448834a7c9d901201-Abstract.html)
+    - Detecting Anomalous Event Sequences with Temporal Point Processes, 2021, [Link](https://papers.nips.cc/paper/2021/hash/6faa8040da20ef399b63a72d0e4ab575-Abstract.html)
+    - Fast and Flexible Temporal Point Processes with Triangular Maps, 2021, [Link](https://papers.nips.cc/paper/2020/hash/00ac8ed3b4327bdd4ebbebcb2ba10a00-Abstract.html)
+    - Point process latent variable models of larval zebrafish behavior, 2021, [Link](https://papers.nips.cc/paper/2018/hash/e02af5824e1eb6ad58d6bc03ac9e827f-Abstract.html)
+
     - Noise-Contrastive Estimation for Multivariate Point Processes, 2020, [Link](https://paperswithcode.com/paper/noise-contrastive-estimation-for-multivariate)
     - Fast and Flexible Temporal Point Processes with Triangular Maps, 2020, [Link](https://paperswithcode.com/paper/fast-and-flexible-temporal-point-processes)
     - Exact sampling of determinantal point processes with sublinear time preprocessing, 2019, [Link](https://paperswithcode.com/paper/exact-sampling-of-determinantal-point-1)
