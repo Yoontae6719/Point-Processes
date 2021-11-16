@@ -31,10 +31,10 @@
    ```
    
 ## Result 
-- implement result
+- Implement result
 ![image](https://user-images.githubusercontent.com/87846187/142000260-8be34594-a334-41b8-bd37-b562bc56286f.png)
 
-- official result
+- Official result
 - ![image](https://user-images.githubusercontent.com/87846187/142000893-8fe6d5b0-7024-450b-94df-8b1936ef85d8.png)
 
 
