@@ -1,0 +1,8 @@
+# Hyper param
+lr : 0.01
+num_epochs : 40
+n_workers : 4
+batch_size : 16
+ds_name : ret
+smooth : 0.1
+model : transfomer

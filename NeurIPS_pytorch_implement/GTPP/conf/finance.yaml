@@ -1,0 +1,8 @@
+# Hyper param
+lr : 0.001
+num_epochs : 40
+n_workers : 4
+batch_size : 1
+ds_name : financial
+smooth : 0.1
+model : transfomer

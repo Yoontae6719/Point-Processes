@@ -1,0 +1,16 @@
+# Hyper param
+lr : 0.001
+num_epochs : 40
+n_workers : 4
+batch_size : 4
+ds_name : so_1
+smooth : 0.1
+model : transfomer
+
+# Transfomer param
+d_model : 64
+d_hidden : 256
+n_layers : 3
+n_head : 3
+d_k : 16
+d_v : 16

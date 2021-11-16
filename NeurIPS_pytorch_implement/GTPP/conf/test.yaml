@@ -1,0 +1,19 @@
+# Hyper param
+lr : 0.001
+num_epochs : 100
+n_workers : 4
+batch_size : 128
+ds_name : test #so_1
+time_step : 20
+gen_type : hawkes1
+log_bool : False
+device : cuda
+
+# LSTM param
+n_event : 1
+n_emb_dim : 10
+dropout_rate : 0.1
+
+n_inputs : 64  #hid_dim
+n_outputs : 64 # mlp_dim
+n_layers : 2
