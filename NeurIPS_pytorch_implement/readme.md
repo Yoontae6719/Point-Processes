@@ -1,5 +1,5 @@
 
-# Study for developing deep learning models for temporal point process
+# Temporal Point Process
 ## UNIST Financial Engineering Lab 
 
 I am Yoontae Hwang 😃. I am studying at the UNIST Financial Engineering Lab as an integrated master's and doctoral program.
