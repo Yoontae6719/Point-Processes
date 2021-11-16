@@ -15,7 +15,6 @@ The project can be accessed over at:
 if you want see the detail, click following link.
 - [Authors](#authors)
 - [Features](#features)
-- [Usage](#usage)
 - [Requirements](./requirements.txt) 
 
 
