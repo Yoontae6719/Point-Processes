@@ -15,7 +15,6 @@ The project can be accessed over at:
 
     - Noise-Contrastive Estimation for Multivariate Point Processes, 2020, [Link](https://paperswithcode.com/paper/noise-contrastive-estimation-for-multivariate)
     - Fast and Flexible Temporal Point Processes with Triangular Maps, 2020, [Link](https://paperswithcode.com/paper/fast-and-flexible-temporal-point-processes)
-    - Exact sampling of determinantal point processes with sublinear time preprocessing, 2019, [Link](https://paperswithcode.com/paper/exact-sampling-of-determinantal-point-1)
     - Mutually-Regressive-Point-Processes, 2019, [Link](https://github.com/ifiaposto/Mutually-Regressive-Point-Processes)
     - Wasserstein Learning of Deep Generative Point Process Models, 2017, [Link](https://paperswithcode.com/paper/wasserstein-learning-of-deep-generative-point)
     - Fully Neural Network based Model for General Temporal Point Processes, 2019, [Link](https://paperswithcode.com/paper/fully-neural-network-based-model-for-general)    
