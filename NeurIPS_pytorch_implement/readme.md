@@ -14,9 +14,12 @@ The project can be accessed over at:
 
 if you want see the detail, click following link.
 - [Authors](#authors)
-- [Features](#features)
-- [Requirements](./requirements.txt) 
+- [QnA](#QnA)
 
 
 ## ✍️ Authors <a name = "authors"></a>
 - [Yoontae Hwang](https://www.notion.so/unist-felab/Yoontae-Hwang-9b1c43d6b1924d39a7940764fd0420b7) 
+
+
+## 😃 QnA <a name = "QnA"></a>
+- If you have talked about temporal point process, please contact me. -> yoontae@unist.ac.kr
