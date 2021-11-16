@@ -1,4 +1,4 @@
-## [Waarning] it will be updated soon !!!
+## [Warning] it will be updated soon !!!
 
 ## Folder Structure 
   ```
