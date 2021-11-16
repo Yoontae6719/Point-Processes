@@ -31,7 +31,11 @@
    ```
    
 ## Result 
+- implement result
 ![image](https://user-images.githubusercontent.com/87846187/142000260-8be34594-a334-41b8-bd37-b562bc56286f.png)
+
+- official result
+![image](https://user-images.githubusercontent.com/87846187/142000775-cafdeb12-1459-49de-9753-9b75879acd17.png)
 
 
 ## acknowledgement 
