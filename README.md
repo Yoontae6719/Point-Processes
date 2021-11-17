@@ -58,3 +58,9 @@ Participating research team:
 - [Yoontae Hwang](https://www.notion.so/unist-felab/Yoontae-Hwang-9b1c43d6b1924d39a7940764fd0420b7) 
 
 
+## What is temporal point process?
+
+Temporal point processes(TPPs) are probabilistic generative models for continous[discrete]-time event sequence. More specifically, temporal point processes are generative models of variable-length point seqeunces observed on the real line(i.e. time-interval). Many applicaions in industry and science are concerned with collection of event with timestamps.
+TPPs are essential to predict the event occurrence time and what kind of event will occur in the future. I believe that TPPs combined with deep learning will play a very important role in industry.
+
+If you are interested in Temporal point process, please contact me ! yoontae@unist.ac.kr
