@@ -22,4 +22,4 @@ if you want see the detail, click following link.
 
 
 ## 😃 QnA <a name = "QnA"></a>
-- If you have talked about temporal point process, please contact me. -> yoontae@unist.ac.kr
+- If you are interested in Temporal point process, please contact me ! yoontae@unist.ac.kr
