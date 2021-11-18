@@ -1,5 +1,7 @@
 ## [Warning] it will be updated soon !!!
-
+  - 🏁 NeurIPS
+    - Fully Neural Network based Model for General Temporal Point Processes [We call that paper GTPP], 2019, [Link](https://paperswithcode.com/paper/fully-neural-network-based-model-for-general) 
+    
 ## Folder Structure 
   ```
   Folders/    # See the paper list !
