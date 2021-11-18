@@ -1,5 +1,4 @@
 # Study for developing deep learning models for temporal point process
-## UNIST Financial Engineering Lab  
 
 The purpose of this study is to developing point process
 
@@ -64,3 +63,6 @@ Temporal point processes(TPPs) are probabilistic generative models for continous
 TPPs are essential to predict the event occurrence time and what kind of event will occur in the future. I believe that TPPs combined with deep learning will play a very important role in industry.
 
 If you are interested in Temporal point process, please contact me ! yoontae@unist.ac.kr
+
+## UNIST Financial Engineering Lab  
+
